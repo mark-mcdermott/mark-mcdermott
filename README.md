@@ -4,7 +4,10 @@
 
 - 🔭 I’m currently working on a Ruxtmin (Rails/Nuxt boilerplate) and Drivetracks (webapp for storing car documents).
 - 🌱 I’m currently learning JS, Ruby, Nuxt and Rails.
-- 👨‍💻 I’m currently working as a senior QA at [Doximity](https://doximity.com).
+- 👨🏻‍💻 I’m currently working as a senior QA at [Doximity](https://doximity.com).
+- 🤔 I’m looking to move into a developer position.
+- 👨🏼‍💼 I have 15 years experience in QA, SDET and frontend development.
+- 📫 How to reach me: mark@markmcdermott.io or (512) 820-3772
 
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=mark-mcdermott&theme=radical&hide_border=true)
 
@@ -23,8 +26,8 @@
 <a href="https://rubyonrails.org" title="Rails"><img src="https://api.iconify.design/logos:rails.svg?width=50&height=50" /></a>
 <a href="https://playwright.dev" title="Playwright"><img src="https://api.iconify.design/logos:playwright.svg?color=%23e5e817&width=50&height=50" /></a>
 <a href="https://sass-lang.com/" title="Sass"><img src="https://api.iconify.design/logos:sass.svg?color=%23e5e817&width=50&height=50" /></a>
-<a href="https://www.mysql.com/cn/" title="MySql"><img src="https://api.iconify.design/logos:mysql.svg?width=50&height=50" /></a>
-<a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML" title="HTML5"><img src="https://api.iconify.design/logos:html-5.svg?color=%23e5e817&width=50&height=50" /></a>
+<a href="https://www.mysql.com" title="MySql"><img src="https://api.iconify.design/logos:mysql.svg?width=50&height=50" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://api.iconify.design/logos:html-5.svg?color=%23e5e817&width=50&height=50" /></a>
 
 **Learning:**
 
