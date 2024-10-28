@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning JS, Ruby, Nuxt and Rails.
 - 👨‍💻 I’m currently working as a senior QA at [Doximity](https://doximity.com).
 
-![](https://github-readme-stats.vercel.app/api?username=sunshineLixun&show_icons=true&theme=radical&count_private=true)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=mark-mcdermott&theme=vue-dark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunshineLixun&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mark-mcdermott&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 <!-- START_SECTION:waka -->
@@ -30,7 +30,7 @@
 
 <a href="https://vuejs.org" title="Vue"><img src="https://api.iconify.design/logos:vue.svg?width=50&height=50" /></a>
 <a href="https://typescriptlang.org" title="TS"><img src="https://api.iconify.design/logos:typescript-icon.svg?width=50&height=50" /></a>
-<a href="https://postgresql.org" title="Postgres"><img src="https://api.iconify.design/logos:postgres.svg?width=50&height=50" /></a>
+<a href="https://postgresql.org" title="Postgres"><img src="https://api.iconify.design/logos:postgresql.svg?width=50&height=50" /></a>
 
 **Dev Tools:**
 
@@ -39,4 +39,4 @@
 <a href="https://www.google.com/chrome" title="Chrome"><img src="https://api.iconify.design/logos:chrome.svg?color=%23e5e817&width=50&height=50" /></a>
 <a href="https://www.mozilla.org/firefox" title="Firefox"><img src="https://api.iconify.design/logos:firefox.svg?color=%23e5e817&width=50&height=50" /></a>
 <a href="https://www.apple.com/safari/" title="Safari"><img src="https://api.iconify.design/logos:safari.svg?color=%23e5e817&width=50&height=50" /></a>
-<a href="https://www.adobe.com/products/photoshop.html" title="Photoshop"><img src="https://api.iconify.design/logos:photoshop.svg&width=50&height=50" /></a>
+<a href="https://www.adobe.com/products/photoshop.html" title="Photoshop"><img src="https://api.iconify.design/logos:adobe-photoshop.svg&width=50&height=50" /></a>
