@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning JS, Ruby, Nuxt and Rails.
 - 👨‍💻 I’m currently working as a senior QA at [Doximity](https://doximity.com).
 
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=mark-mcdermott&theme=vue-dark&hide_border=true)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=mark-mcdermott&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mark-mcdermott&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mark-mcdermott&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 
 <!-- START_SECTION:waka -->
