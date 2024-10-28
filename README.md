@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a Ruxtmin, a Rails/Nuxt boilerplate and a Drivetracks, a webapp for storing car documents.
+- 🔭 I’m currently working on a Ruxtmin (Rails/Nuxt boilerplate) and a Drivetracks (webapp for storing car documents).
 - 🌱 I’m currently learning JS, Ruby, Nuxt and Rails.
 - 👨‍💻 I’m currently working as a senior QA at [Doximity](https://doximity.com).
 
