@@ -38,5 +38,5 @@
 <a href="https://www.apple.com" title="Mac"><img src="https://api.iconify.design/logos:apple.svg?width=50&height=50" /></a>
 <a href="https://www.google.com/chrome" title="Chrome"><img src="https://api.iconify.design/logos:chrome.svg?color=%23e5e817&width=50&height=50" /></a>
 <a href="https://www.mozilla.org/firefox" title="Firefox"><img src="https://api.iconify.design/logos:firefox.svg?color=%23e5e817&width=50&height=50" /></a>
-<a href="https://www.apple.com/safari/" title="Safari"><img src="https://api.iconify.design/logos:safari.svg?color=%23e5e817&width=50&height=50" /></a>
-<a href="https://www.adobe.com/products/photoshop.html" title="Photoshop"><img src="https://api.iconify.design/logos:adobe-photoshop.svg&width=50&height=50" /></a>
+<a href="https://www.apple.com/safari/" title="Safari"><img src="https://api.iconify.design/logos:safari.svg?width=50&height=50" /></a>
+<a href="https://www.adobe.com/products/photoshop.html" title="Photoshop"><img src="https://api.iconify.design/logos:adobe-photoshop.svg?width=50&height=50" /></a>
