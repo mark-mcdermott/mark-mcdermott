@@ -18,7 +18,7 @@
 **Currently working with:**
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JS"><img src="https://api.iconify.design/logos:javascript.svg?width=50&height=50" /></a>
-<a href="https://nuxt.com" title="Nuxt"><img src="https://api.iconify.design/logos:nuxt.svg?width=50&height=50" /></a>
+<a href="https://nuxt.com" title="Nuxt"><img src="https://api.iconify.design/logos:nuxt-icon.svg?width=50&height=50" /></a>
 <a href="https://ruby-lang.org" title="Ruby"><img src="https://api.iconify.design/logos:ruby.svg?width=50&height=50" /></a>
 <a href="https://rubyonrails.org" title="Rails"><img src="https://api.iconify.design/logos:rails-wordmark.svg?width=50&height=50" /></a>
 <a href="https://playwright.dev" title="Playwright"><img src="https://api.iconify.design/logos:playwright.svg?color=%23e5e817&width=50&height=50" /></a>
