@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on Drivetracks (webapp for storing car documents).
 - 🌱 I’m currently learning JS, Ruby, Nuxt and Rails.
+- ✏️ I blog about coding stuff I'm learning at [http://markmcdermott.io](http://markmcdermott.io)
 - 👨🏻‍💻 I’m currently working as a senior QA at [Doximity](https://doximity.com).
 - 🤔 I’m looking to move into a developer position.
 - 👨🏼‍💼 I have 15 years experience in QA, SDET and frontend development.
