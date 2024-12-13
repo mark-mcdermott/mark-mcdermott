@@ -11,8 +11,6 @@
 - 🏫 Master of Science (M.S.), Software Engineering from Texas State '22
 - 📫 How to reach me: mark@markmcdermott.io or (512) 820-3772
 
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=mark-mcdermott&theme=radical&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mark-mcdermott&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 
