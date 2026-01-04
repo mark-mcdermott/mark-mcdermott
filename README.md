@@ -7,7 +7,7 @@
 - ✏️ I blog about coding stuff I'm learning at [http://markmcdermott.io](http://markmcdermott.io)
 - 👨🏻‍💻 I’m currently working as a senior QA at [Doximity](https://doximity.com).
 - 🤔 I’m looking to move into a developer position.
-- 👨🏼‍💼 I have 15 years experience in QA, SDET and frontend development.
+- 👨🏼‍💼 I have 20 years experience in QA, SDET and frontend development.
 - 🏫 Master of Science (M.S.), Software Engineering from Texas State '22
 - 📫 How to reach me: mark@markmcdermott.io or (512) 820-3772
 
