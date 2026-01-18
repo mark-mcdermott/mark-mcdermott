@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Drivetracks (webapp for storing car documents).
-- 🌱 I’m currently learning JS, Ruby, Nuxt and Rails.
+- 🔭 I’m currently working on some apps: Frunk, SidVid, ThemeForseen & Xun.
+- 🌱 I’m currently learning TypeScript, React and SvelteKit.
 - ✏️ I blog about coding stuff I'm learning at [http://markmcdermott.io](http://markmcdermott.io)
 - 👨🏻‍💻 I’m currently working as a senior QA at [Doximity](https://doximity.com).
 - 🤔 I’m looking to move into a developer position.
