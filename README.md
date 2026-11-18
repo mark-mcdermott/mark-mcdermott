@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I'm currently building a [https://boombapbot.com](drum machine app) and a [https://tova.so](notetaking app).
+- 🔭 I'm currently building a [drum machine app](https://boombapbot.com) and a [notetaking app](https://tova.so).
 - 🌱 I’m currently learning TypeScript and React.
 - ✏️ I blog about coding stuff I'm learning at [http://markmcdermott.io](http://markmcdermott.io)
 - 👨🏻‍💻 I’m currently working as a senior QA at [Doximity](https://doximity.com).
